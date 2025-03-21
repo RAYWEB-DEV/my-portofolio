@@ -8,7 +8,7 @@ export function Header() {
         <div className="flex justify-between items-center">
           <h1 className="text-yellow-400 text-xl font-semibold">Ray Ahsanul</h1>
           <Link
-            href="https://github.com/latesturl"
+            href="https://github.com/RAYWEB-DEV"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white hover:text-yellow-400 transition-colors duration-200 p-2 rounded-full hover:bg-white/10"

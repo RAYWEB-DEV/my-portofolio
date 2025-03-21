@@ -120,7 +120,7 @@ export default function PortfolioPage() {
                           <h4 className="text-2xl font-bold text-white">Personal Portfolio</h4>
                           <div className="flex gap-2">
                             <Link
-                              href="https://github.com/RAYWEB-DEV/my-portofolio"
+                              href="https://github.com/RAYWEB-DEV"
                               target="_blank"
                               rel="noopener noreferrer"
                               className="p-3 sm:p-2 bg-zinc-900/80 rounded-full hover:bg-yellow-400/20 active:bg-yellow-400/30 transition-colors min-w-[44px] min-h-[44px] flex items-center justify-center touch-manipulation"
